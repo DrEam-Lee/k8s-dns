@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.1.1
+FROM docker.elastic.co/beats/metricbeat:7.9.3
 MAINTAINER Q
